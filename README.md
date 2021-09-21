@@ -1,16 +1,20 @@
-Title of the project: 
 Real Time Bus Tracker
 
-Description of the project: 
-This project is a map of the Boston, MA area. There is a marker that moves between all of the bus stops from the MIT campus to the Harvard campus, then stops.
+Description
 
-How to Run:
-Fork and clone this repo. Once the files are downloaded the HTML file should be loaded in a Web Browser. With a click of the button "Show stops between MIT and Harvard" there will be an animation of the bus stops from MIT to Harvard. A marker will appear and move every 1.5 seconds.
+The Real Time Bus Tracker is a program that uses MBTA bus data to determine the bus stops between MIT’s campus and Harvard’s campus. A icon starts at the bus stop closes to MIT’s campus then moves along each stop until it reaches the bus stop closes to Harvard’s campus, where it stops.
 
-Roadmap of future improvements:
-Change marker.
-Adding more routes.
-Adding more cites.
+How to Run
 
-License information:
+Fork and clone this repo. Once the files are downloaded load the HTML file in a Web Browser. Click on the ‘Show stops between MIT and Harvard’ button. Watch as the icon moves along the bus stops from MIT to Harvard.
+
+Roadmap to Future Improvements
+
+Make the icon move along the stops going back to MIT.
+Add more routes.
+Add more cities.
+
+License
 https://mit-license.org/
+
+
